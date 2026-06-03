@@ -6,6 +6,7 @@
 <!--START_SECTION:my_heart_rate-->
 | Time | Rate | 
  | ---- | ---- | 
+| Jun 3, 2026 at 15:22 | 55 |
 | Jun 3, 2026 at 15:20 | 56 |
 | Jun 3, 2026 at 15:18 | 60 |
 | Jun 3, 2026 at 15:16 | 58 |
@@ -15,7 +16,6 @@
 | Jun 3, 2026 at 15:08 | 58 |
 | Jun 3, 2026 at 15:06 | 59 |
 | Jun 3, 2026 at 15:04 | 59 |
-| Jun 3, 2026 at 15:02 | 60 |
 
 <!--END_SECTION:my_heart_rate-->
 
